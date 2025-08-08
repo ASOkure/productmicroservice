@@ -11,7 +11,7 @@
 	<groupId>com.asokure</groupId>
 	<artifactId>productmicroserviceapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>productmicroserviceapp</name>
+	<name>product-service</name>
 	<description>product service microservice</description>
 	<url/>
 	<licenses>
